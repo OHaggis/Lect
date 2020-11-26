@@ -1,4 +1,4 @@
-# for R and UNIX course
+# for R and GNU/Linux and UNIX course
 options(stringsAsFactors = FALSE,
         scipen = 9999)
 
